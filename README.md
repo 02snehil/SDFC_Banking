@@ -2,7 +2,7 @@
 
 ## Overview
 
-SDFC Banking Application is a complete web based and banking solution all the functions of a bank. The product has been developed using open, industry standard, proven technologies and high quality software engineering methodologies. SDFC Bank is highly parameterized to support constantly changing customer and regulatory requirement.The product truly leverages on web technologies and centralized database.
+SDFC Banking Application is a complete web based and banking solution all the functions of a bank. The product has been developed using open, industry standard, proven technologies and high quality software engineering methodologies. SDFC Bank is highly parameterized to support constantly changing customer and regulatory requirement. The product truly leverages on web technologies and centralized database.
 
 ## Tech Used
 
